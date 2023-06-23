@@ -91,3 +91,14 @@
         display: inline-block;
         margin-top: 16px;
     }
+
+    .dispositivos-lista{
+        display: flex;
+        list-style-type: none;
+        margin: 80px 0;
+        justify-content: center;
+    }
+
+    .dispositivos{
+        text-align: center;
+    }
